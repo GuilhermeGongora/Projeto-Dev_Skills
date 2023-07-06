@@ -18,7 +18,7 @@ P exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB
 <br>
 
 <p align="center">
-  <img alt="Projeto DevLinks" src=".github/Preview.jpg" width="100%">
+  <img alt="Projeto DevLinks" src="github/Preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
